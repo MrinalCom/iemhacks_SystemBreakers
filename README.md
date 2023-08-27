@@ -1,1 +1,2 @@
 # iemhacks_SystemBreakers
+"Carewave is a web application enabling video call appointments, AI-driven disease chat, and locating nearby hospitals and test centers. Users can also order emergency medicines through the platform, managed via admin and customer portals. The technology stack includes Bootstrap, React, Postman, Python, Express.js, JSX, MongoDB, PyTesseract, Tableau, and Node.js for a feature-rich and efficient user experience."
